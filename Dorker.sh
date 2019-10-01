@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #color(bold)
 red='\e[1;31m'
 green='\e[1;32m'
